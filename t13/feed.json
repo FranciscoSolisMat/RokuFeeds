@@ -1,5 +1,5 @@
 {
-  "providerName": "T13",
+  "providerName": "FranciscoSolis",
   "lastUpdated": "2022-02-02T15:16:42+0000",
   "language": "es",
   "liveFeeds": [{
@@ -19,8 +19,8 @@
         "duration": ""
       }]
     },
-    "thumbnail": "https://www-storage.13.cl/t13/assets/svg/logos-t13.svg",
-    "brandedThumbnail": "https://www-storage.13.cl/t13/assets/svg/logos-t13.svg",
+    "thumbnail": "https://www-storage.13.cl/c13/13cl/logo-t13.png",
+    "brandedThumbnail": "https://www-storage.13.cl/c13/13cl/logo-t13.png",
     "tags": ["t13","vivo","live","noticias","news"]
   }]
 }
