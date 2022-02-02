@@ -5,17 +5,22 @@
   "liveFeeds": [{
     "id": "t13-en-vivo",
     "title": "T13 Señal en Vivo",
-    "content": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1643839436/ei/bKv6Ye7aC9uSobIPrfKSqAs/ip/2800:300:6311:b220:0:0:0:10/id/Ove87nZ_1D4.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/rr4---sn-xouxa-njas.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4010/mh/kG/mip/2800:300:6311:b220::10/mm/44/mn/sn-xouxa-njas/ms/lva/mv/m/mvi/4/pl/44/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1643817390/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhAK80hEkfKxtwLNP1kDpnZhhXkGhhGlG1XxGoxrK7AZdJAiEAngSQE_etb9_BZ6AiaeRM70kzd9o68qPdpl5qTPm2NGQ%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgPWS6nFAqaxu5019oe1Jlhq29h4jO4XSIJUkDBPWG53ACIH6a9cwbx4U-p9_8ygmYwr6Lm0ylwXZB-dVDva2YVUt9/playlist/index.m3u8",
-    "thumbnail": "https://www-storage.13.cl/t13/assets/svg/logos-t13.svg",
-    "brandedThumbnail": "https://www-storage.13.cl/t13/assets/svg/logos-t13.svg",
     "shortDescription": "Señal de T13 En Vivo",
     "longDescription": "Ve en vivo la señal del Canal T13",
-    "tags": [
-      "t13",
-      "news",
-      "noticias",
-      "live",
-      "vivo"
-    ]
+    "rating": "UNRATED",
+    "content": {
+      "dateAdded": "2022-02-02T15:16:42+0000",
+      "captions": [],
+      "duration": 36000,
+      "videos": [{
+        "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1643839436/ei/bKv6Ye7aC9uSobIPrfKSqAs/ip/2800:300:6311:b220:0:0:0:10/id/Ove87nZ_1D4.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/rr4---sn-xouxa-njas.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4010/mh/kG/mip/2800:300:6311:b220::10/mm/44/mn/sn-xouxa-njas/ms/lva/mv/m/mvi/4/pl/44/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1643817390/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhAK80hEkfKxtwLNP1kDpnZhhXkGhhGlG1XxGoxrK7AZdJAiEAngSQE_etb9_BZ6AiaeRM70kzd9o68qPdpl5qTPm2NGQ%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgPWS6nFAqaxu5019oe1Jlhq29h4jO4XSIJUkDBPWG53ACIH6a9cwbx4U-p9_8ygmYwr6Lm0ylwXZB-dVDva2YVUt9/playlist/index.m3u8",
+        "quality": "SD",
+        "videoType": "HLS",
+        "duration": ""
+      }]
+    },
+    "thumbnail": "https://www-storage.13.cl/t13/assets/svg/logos-t13.svg",
+    "brandedThumbnail": "https://www-storage.13.cl/t13/assets/svg/logos-t13.svg",
+    "tags": ["t13","vivo","live","noticias","news"]
   }]
 }
